@@ -1,4 +1,4 @@
-# 
+https://www.youtube.com/watch?v=SigloINyxlw
 
 Öncelikle Amazon AWS Servisine üye olmalıyız ; 
 Amazon AWS kayıt işlemi aşağıdaki adımları izleyerek yapılabilir:
