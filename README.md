@@ -56,5 +56,5 @@ Amazon AWS kayıt işlemi aşağıdaki adımları izleyerek yapılabilir:
 5- Kurulum bittikten sonra SSH client sayfasında bulunan example kodunu tekrardan yapıştırın ve `sudo passwd openvpn` yazın ,yeni şifre oluşturun burada terminale giridğiniz karakterler görünmeyecektir . Kurulum tamamlandığında kullanıcı adınz ve şifrenizi igirerek openvpn ile bağlanabilirsiniz
 
 
-
+### Bağlantı için sunucunuzdaki public ip adresini kopyalayın ve kuullanıcı adı ve oluşturduğunuz şifre ile bağlanın
 
