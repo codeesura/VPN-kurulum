@@ -1,4 +1,6 @@
-https://www.youtube.com/watch?v=SigloINyxlw
+# https://www.youtube.com/watch?v=SigloINyxlw
+
+Yukarıdaki videoda detaylı anlatım mevcut
 
 Öncelikle Amazon AWS Servisine üye olmalıyız ; 
 Amazon AWS kayıt işlemi aşağıdaki adımları izleyerek yapılabilir:
