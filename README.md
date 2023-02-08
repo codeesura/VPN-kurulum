@@ -51,6 +51,10 @@ Amazon AWS kayıt işlemi aşağıdaki adımları izleyerek yapılabilir:
 - `cd` komutu ile belirttiğiniz klasöre gidebilrisiniz örneğin ; cd desktop veya cd <dosya adı> 
 - `cd ..` komutu ile bir önceki dizine gidebilrisiniz
 
-4- `.pem` dosyasının bulunduğu klasöre gittiğinizde , SSH client sayfasında 3.adımda bulunan kodu koplayayıp terminale yapıştırın ve entera basın ardından en altta bulunan Example: kodunu kopyalayıp entera basın
+4- `.pem` dosyasının bulunduğu klasöre gittiğinizde , SSH client sayfasında 3.adımda bulunan kodu koplayayıp terminale yapıştırın ve entera basın ardından en altta bulunan Example: kodunu kopyalayıp entera basın . Ardından are you sure you want continue kısmına `yes` yazıp entera basın ve ardından çıkan bütün seçeneklerde entera basıp hızlıca ilerleyebilirsiniz , yükleme işlemi bittikten sonra diğer adıma geçin .
+
+5- Kurulum bittikten sonra SSH client sayfasında bulunan example kodunu tekrardan yapıştırın ve `sudo passwd openvpn` yazın ,yeni şifre oluşturun burada terminale giridğiniz karakterler görünmeyecektir . Kurulum tamamlandığında kullanıcı adınz ve şifrenizi igirerek openvpn ile bağlanabilirsiniz
+
+
 
 
