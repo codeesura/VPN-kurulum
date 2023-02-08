@@ -38,3 +38,19 @@ Amazon AWS kayıt işlemi aşağıdaki adımları izleyerek yapılabilir:
 
 <img width="614" alt="Ekran Resmi 2023-02-08 22 05 22" src="https://user-images.githubusercontent.com/120671243/217632268-17dd6092-0d6b-4117-ac84-358fa99c14f9.png">
 
+## Sunucuya Bağlanma
+
+1- Kurduğunuz sunucunu sağında bulunan kutucuğa tik atıp sağ üstteki connect butonuna basın
+
+<img width="1123" alt="Ekran Resmi 2023-02-08 22 32 16" src="https://user-images.githubusercontent.com/120671243/217633663-49198d75-35eb-46a1-94b9-6fb30d217838.png">
+
+2- Açılan sekmede `SSH client`'e basın .
+
+3- Terminali açıp (Windows için Windowslogosu+r basıp açılan pencereye cmd yazın) , terminalde `pwd` komutu ile terminalin nerede çalıştığına bakın ve indirdiğiniz `.pem` dosyasının olduğu dizine gidin . 
+- `ls` komutu bulunduğunuz dizindeki alt dosyaları gösterir 
+- `cd` komutu ile belirttiğiniz klasöre gidebilrisiniz örneğin ; cd desktop veya cd <dosya adı> 
+- `cd ..` komutu ile bir önceki dizine gidebilrisiniz
+
+4- `.pem` dosyasının bulunduğu klasöre gittiğinizde , SSH client sayfasında 3.adımda bulunan kodu koplayayıp terminale yapıştırın ve entera basın ardından en altta bulunan Example: kodunu kopyalayıp entera basın
+
+
